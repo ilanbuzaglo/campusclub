@@ -1,0 +1,34 @@
+[
+  {
+    "kind": "concierto",
+    "title": "Indie Night",
+    "place": "Foro Campus",
+    "date": "15 Sep 21:00",
+    "description": "Una noche con bandas indie emergentes de CDMX, sets acústicos y DJ invitado al cierre. Habrá merch, barra con promos para miembros y área chill.",
+    "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/fut.jpg"
+  },
+  {
+    "kind": "deporte",
+    "title": "Fut 7 Interfacultades",
+    "place": "Campo Norte",
+    "date": "Sáb 17:00",
+    "description": "Torneo relámpago de Fut 7, equipos mixtos, fase de grupos y eliminación directa. Arbitraje oficial y fisioterapeuta de apoyo.",
+    "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/fut.png"
+  },
+  {
+    "kind": "fiesta",
+    "title": "Welcome Party",
+    "place": "Club X",
+    "date": "Vie 22:30",
+    "description": "Arranque de semestre con DJs locales, visuales y photobooth. Acceso preferente para miembros; cóctel de bienvenida hasta las 23:00.",
+    "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/fiesta.jpg"
+  },
+  {
+    "kind": "torneo",
+    "title": "Torneo de Pádel",
+    "place": "Club Campus",
+    "date": "Dom 11:00",
+    "description": "Draw mixto y categoría principiantes; pelotas incluidas y clínica express. Raquetas en préstamo con identificación.",
+    "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/padel.jpg"
+  }
+]
