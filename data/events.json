@@ -30,5 +30,13 @@
     "date": "Dom 11:00",
     "description": "Draw mixto y categoría principiantes; pelotas incluidas y clínica express. Raquetas en préstamo con identificación.",
     "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/padel12.jpg"
-  }
+  },
+   {
+    "kind": "concierto",
+    "title": "Indie Night",
+    "place": "Foro Campus",
+    "date": "15 Sep 21:00",
+    "description": "Una noche con bandas indie emergentes de CDMX, sets acústicos y DJ invitado al cierre. Habrá merch, barra con promos para miembros y área chill.",
+    "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/indie.jpg"
+  },
 ]
