@@ -1,1 +1,87 @@
+{
+  "Club": [
+    {
+      "title": "50% en palomitas y refrescos",
+      "subtitle": "Para que engordes",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/main/Fiesta-Cinepolis-50-de-descuento-scaled.jpg",
+      "terms": "Aplican restricciones. Válido mostrando membresía activa. No acumulable."
+    },
+    {
+      "title": "10% en SushiRoll",
+      "subtitle": "Aplica todos los días de la semana",
+      "imageURL": "https://github.com/ilanbuzaglo/campusclub/raw/main/Sushi%20Nights%201080x1080.png",
+      "terms": "En sucursales participantes. No incluye combos ni alcohol."
+    },
+    {
+      "title": "25% en artículos escolares en Lumen",
+      "subtitle": "Aplica todos los días de la semana",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/lumen.png",
+      "terms": "No aplica con otras promos ni mayoreo."
+    },
+    {
+      "title": "Precio especial en Starbucks",
+      "subtitle": "Solo en artículos seleccionados",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/starbucks.jpg",
+      "terms": "Válido en productos seleccionados. Sujeto a disponibilidad."
+    },
+    {
+      "title": "15% de descuento en librerías Gandhi",
+      "subtitle": "Válido en todas las sucursales",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/gandhi.jpg",
+      "terms": "No aplica en tarjetas de regalo ni preventas."
+    }
+  ],
+  "Honor": [
+    {
+      "title": "Cover 2x1 en Departamento",
+      "subtitle": "Antro aliado",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/departamento.jpeg",
+      "terms": "Sujeto a aforo, políticas del lugar e ID."
+    },
+    {
+      "title": "20% de descuento en membresías Sports World",
+      "subtitle": "Válido en cualquier sucursal",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/sportsworld.png",
+      "terms": "No aplica en inscripciones previas ni adeudos."
+    },
+    {
+      "title": "10% de descuento en panadería Rosetta",
+      "subtitle": "Válido en cualquier compra",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/rosetta2.webp",
+      "terms": "Sujeto a existencia. No reembolsable."
+    },
+    {
+      "title": "10% de descuento en Cancino",
+      "subtitle": "Válido en cualquier sucursal",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/cancino.jpg",
+      "terms": "No válido con otras promociones o menús fijos."
+    }
+  ],
+  "Magna": [
+    {
+      "title": "20% de descuento en reservas Airbnb",
+      "subtitle": "Válido en cualquier reserva",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/airbnb.png",
+      "terms": "Código único por reserva. Políticas del anfitrión aplican."
+    },
+    {
+      "title": "20% de descuento en alimentos",
+      "subtitle": "Válido de lunes a viernes",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/ryoshi.jpg",
+      "terms": "No incluye bebidas alcohólicas ni servicio."
+    },
+    {
+      "title": "5% en reservas Aeroméxico",
+      "subtitle": "Válido en cualquier reserva",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/aeromexico.jpg",
+      "terms": "Aplica solo en tarifa pública. No combinable con cupones."
+    },
+    {
+      "title": "Cover y primer drink gratis en Departamento",
+      "subtitle": "Reservada en eventos top",
+      "imageURL": "https://raw.githubusercontent.com/ilanbuzaglo/campusclub/refs/heads/main/departamento.jpeg",
+      "terms": "Sujeto a lista y aforo. ID obligatorio."
+    }
+  ]
+}
 
